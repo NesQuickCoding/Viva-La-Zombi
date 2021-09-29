@@ -7,7 +7,7 @@ Created: January 2020
 
 ### Program Walkthough GIF
 
-<img src="WEBLINK" width=250><br>
+<img src="![image](https://user-images.githubusercontent.com/46271268/135363093-4f9fb8ff-4f2f-45c0-9086-efaf37f6c86f.png)" width=250><br>
 
 ## License
 
