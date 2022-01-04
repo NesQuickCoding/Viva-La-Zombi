@@ -1,7 +1,5 @@
-# Zombie Pew
+# Viva La Zombi
 # By Neslie Fernandez
-
-# This program contains sprites. 
 
 # Module that allows you to make games
 import pygame
