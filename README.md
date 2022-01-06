@@ -1,4 +1,4 @@
-# Zombie Pew
+# Viva La Zombi
 This repo contains a simple side scrolling shooter game I developed through Python with the use of the pygame module. This project demonstrates the use of class and objects. This contains a scoreboard in the top middle portion to show how many points you acquired from shooting the zombie. The zombie contains a health bar that decreases the more you successfully shoot it. 
 
 Submitted by: **Neslie Fernandez**
